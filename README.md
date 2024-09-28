@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Poojitha Badigi</h1>
-<h3 align="center">B.Tech Student | AI & ML Enthusiast</h3>
-<img align="right" alt="coding" width="300"  margin-top="50"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd1d3pxaHp4ZnAwNHh4NDg2ZGRxZTJubGt6bTRwNWF6eDhvM25qcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.webp">
+<h1>Hi 👋, I'm Poojitha Badigi</h1>
+B.Tech Student | AI & ML Enthusiast
+<img align="right" alt="coding"  width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd1d3pxaHp4ZnAwNHh4NDg2ZGRxZTJubGt6bTRwNWF6eDhvM25qcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.webp">
 
 🌟 I'm interested in **software engineering** where I can showcase my skills and contribute to the industry.  
 🚀 I aim to develop my abilities in a professional environment and make a meaningful impact.
