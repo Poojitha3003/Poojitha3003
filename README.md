@@ -5,7 +5,7 @@ B.Tech Student | AI & ML Enthusiast
 🌟 I'm interested in **software engineering** where I can showcase my skills and contribute to the industry.  
 🚀 I aim to develop my abilities in a professional environment and make a meaningful impact.
 
-Let's connect!
+<h3>Let's connect!<h3>
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/) [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/) [![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://your-portfolio-link.com)
 
